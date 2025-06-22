@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-&0w^kma2)z!g+8csu3p&tl)$sck84q_3d6ao1^q%a##ds((4fj
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://django-crud-test-027ca9c16793.herokuapp.com/'
+    'django-crud-test-027ca9c16793.herokuapp.com'
 ]
 
 
